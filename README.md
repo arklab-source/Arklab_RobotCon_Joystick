@@ -1,6 +1,7 @@
 # Arklab_RobotCon_Joystick
 ## RobotCon_Joystick 產品照片
 ![JoyStick](https://raw.githubusercontent.com/arklab-source/Arklab_RobotCon_Joystick/master/RobotCon_Joystick.jpg)
+# 最新版本說明：https://www.notion.so/arklab/RobotCon-Joystick-163908c4140c4ea38140ec90c0e64b9b
 # RobotCon Joystick 創客的遙控器
 
 # 介绍
